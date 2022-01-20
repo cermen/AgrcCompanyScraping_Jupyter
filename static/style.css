@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    margin: 50px 0;
+}
+
+#keyword {
+    margin: auto;
+    width: 90%;
+}
+
+.block {
+    margin: 0 auto;
+    float: left;
+    width: 50%;
+}
+
+table {
+    border-collapse: collapse;
+    cursor: pointer;
+}
+
+#category-select-list {
+    overflow: auto;
+    height: 200px;
+}
+
+li {
+    list-style-type: none;
+    margin-left: -30px;
+}
+
+.all-columns {
+    margin-left: -40px;
+}
+
+.sub {
+    margin-left: -20px;
+}
+
+button {
+    width: 100%; 
+}
